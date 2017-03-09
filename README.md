@@ -2,7 +2,7 @@
 
 Opens the BBC home page in Firefox, then clicks on the News tab
 
-![](https://raw.githubusercontent.com/atabegruslan/Java-Selenium-Auto-Surf-Webpage/master/Illustrations/selenium.PNG)
+![](https://raw.githubusercontent.com/Ruslan-Aliyev/Java-Selenium-Auto-Surf-Webpage/master/Illustrations/selenium.PNG)
 
 ```java
 import org.openqa.selenium.By;
